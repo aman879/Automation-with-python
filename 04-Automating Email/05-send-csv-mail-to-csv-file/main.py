@@ -7,14 +7,13 @@ load_dotenv()
 
 sender = 'aman9693kumar@gmail.com'
 
-subject = """Some Subject"""
-
+subject = "Your bill"
 
 df = pd.read_csv('contacts.csv')
 
 yag = yagmail.SMTP(user=sender, password=os.getenv('PASSWORD'))
 
 for index, row in df.iterrows():
-    contents = f"""Some content for {row['name']}"""
+    contents = [f"""Hey {row['name']} you have to pay {row['amount']}""", """Bill is attached""", row['filepath']]
     yag.send(to=row['email'], subject=subject, contents=contents)
-    print("Email sent!")
+    print('Email sent')
