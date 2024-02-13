@@ -1,0 +1,71 @@
+Student App Ideas
+General Student Recommendations
+Currently you have 26 sections but I am sure a person with 
+basic knowledge may try to go thru all of them. However if a 
+intermediate or advanced person might want to try what is 
+interest or useful to him/her. I would like to suggest, dividing 
+each section into 2 or 3 categories. A person with basic 
+python knowledge can first master the basic category first  in 
+each section. this way, you could keep adding stuff to section 
+categories so that regardless of python knowledge, everyone 
+can learn from all sections and feel great about 
+achievement.some sections may not be suitable for a person 
+with very limited python knowledge but that is fine too. This 
+will make your tutorial breathing room to grow into more and 
+attractive to all python learners.
+ 
+Reddit
+Listening to new posts, comments on some subreddit. Then 
+it alerts you by creating a row inside an Airtable or Google 
+Sheets. (This could be a lot of subjects, including API). You 
+can even create, that it sends a notification in whatsapp, 
+slack or discord for example.
+PDF Generation
+You take from Google Sheets information and based on that 
+information, you generate .pdf. For example - invoice.
+Make a PDF with an image collage out of multiple images and 
+put their names as captions in the PDF
+PDF Scraping
+I just purchased your course early bird. I just like to propose a 
+topic which i think will be very helpful to employees handling 
+document especially pdf. Please create a topic on how to 
+scrape a documents such as pdf or word. Thank you for 
+sharing all knowledge to us your student.
+Google sheets
+Listening to google sheets and then sending information 
+between Google Sheets, based on a status row. 
+For example : 
+A column is a Status Row.
+B,C,D,E  columns are some random information spreadsheets
+There are two Google WorkSheets "Worksheet A" and 
+"Worksheet B"
+When in "Worksheet A", rows status changes to "SEND", then 
+it creates that row inside "Worksheet B".
+Remove Sensing 
+Can you please add more remote sensing stuff related to 
+image processing stuff in your automate everything with 
+python course ? Like moving windows ..radiometric 
+correction , masking etc . Also, can you please create a 
+course on satellite image processing and ML using python ?
+Data Analysis and Visualization
+A stock charting and technical analysis project.
+ Downloading/updating stock market data, charting data and 
+adding a few technical analysis indicators to chart. Advanced 
+functionality might include some kind of testing of trading 
+ideas.
+SQL
+Get data from SQL
+From SQL to CSV
+From SQL to Excel
+GUIs
+A FILE MANAGER
+An App that continually receives input data from some 
+remote source does some processing, logs it and store the 
+response back to the cloud. In it we could incorporate 
+advanced features like security,pagination, cassandra 
+database integration, api interactions, one click deployment 
+to heroku, one click upload to github, one click files sync/
+download/upload from cloud storage like gdrive, ,showing 
+html status pages in our kivy app.
+Sending Emails
+Send an email with MS Outlook
