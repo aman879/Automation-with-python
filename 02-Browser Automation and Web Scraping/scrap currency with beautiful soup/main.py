@@ -8,7 +8,7 @@ def get_currency(in_currency, out_currency):
     rate = soup.find("span", class_="ccOutputRslt").get_text()
     rate = float(rate[0:-4])
 
-    return rate
+    return soup
 
 def main():
     in_currency = input('from: ')
